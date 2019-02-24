@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on dev-tty</title>
-    <link>https://dev-tty/tags/</link>
+    <link>https://dev-tty.nl/tags/</link>
     <description>Recent content in Tags on dev-tty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     
-	<atom:link href="https://dev-tty/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dev-tty.nl/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

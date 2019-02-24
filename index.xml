@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dev-tty</title>
-    <link>https://dev-tty/</link>
+    <link>https://dev-tty.nl/</link>
     <description>Recent content on dev-tty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Sun, 24 Feb 2019 13:28:39 +0100</lastBuildDate>
     
-	<atom:link href="https://dev-tty/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dev-tty.nl/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://dev-tty/about/</link>
+      <link>https://dev-tty.nl/about/</link>
       <pubDate>Sun, 24 Feb 2019 13:28:39 +0100</pubDate>
       
-      <guid>https://dev-tty/about/</guid>
+      <guid>https://dev-tty.nl/about/</guid>
       <description>I’m an Embedded Systems Engineer in Eindhoven the Netherlands.
 If you have any problems with the website feel free to drop an issue in the github repo</description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>https://dev-tty/posts/my-first-post/</link>
+      <link>https://dev-tty.nl/posts/my-first-post/</link>
       <pubDate>Sat, 23 Feb 2019 21:50:56 +0100</pubDate>
       
-      <guid>https://dev-tty/posts/my-first-post/</guid>
+      <guid>https://dev-tty.nl/posts/my-first-post/</guid>
       <description>Hello World :-)
 std::cout &amp;lt;&amp;lt; &amp;#34;Hello&amp;#34; &amp;lt;&amp;lt; std::endl; </description>
     </item>
