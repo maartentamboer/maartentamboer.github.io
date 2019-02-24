@@ -3,28 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://maartentamboer.github.io/about/</loc>
+    <loc>https://dev-tty/about/</loc>
     <lastmod>2019-02-24T13:28:39+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://maartentamboer.github.io/posts/my-first-post/</loc>
+    <loc>https://dev-tty/posts/my-first-post/</loc>
     <lastmod>2019-02-23T21:50:56+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://maartentamboer.github.io/posts/</loc>
+    <loc>https://dev-tty/posts/</loc>
     <lastmod>2019-02-23T21:50:56+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://maartentamboer.github.io/tags/</loc>
+    <loc>https://dev-tty/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://maartentamboer.github.io/</loc>
+    <loc>https://dev-tty/</loc>
     <lastmod>2019-02-24T13:28:39+01:00</lastmod>
     <priority>0</priority>
   </url>
