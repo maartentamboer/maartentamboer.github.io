@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on dev-tty</title>
+    <title>Tags on Maarten Tamboer</title>
     <link>https://dev-tty.nl/tags/</link>
-    <description>Recent content in Tags on dev-tty</description>
+    <description>Recent content in Tags on Maarten Tamboer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Maarten Tamboer</copyright>
-    
-	<atom:link href="https://dev-tty.nl/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Maarten Tamboer</copyright><atom:link href="https://dev-tty.nl/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
